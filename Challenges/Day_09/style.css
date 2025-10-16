@@ -1,5 +1,5 @@
 body{
-  background-color:pink;
+  background-color:rgb(245, 187, 196);
   height: 100vh;
   display: flex;
   align-items: center;
@@ -7,7 +7,7 @@ body{
 }
 
 .card{
-  background-color: #38BEDC;
+  background-color: #7efa8f;
   display: flex;
   position: relative;
   overflow: hidden;
@@ -18,13 +18,13 @@ body{
   height: 80px;
   line-height: 80px;
   text-align: center;
-  color: #9B314D;
+  color: #fc4273;
   font-size: 40px;
   transition: .3s linear;
 }
 
 .card a:hover{
-  color: red;
+  color: rgb(43, 28, 171);
 }
 
 .bar{
